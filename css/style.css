@@ -18,6 +18,7 @@ header {
 .header__menu ul li {
     list-style-type: none;
     padding-left: 38px;
+    
 }
 .header__order {
     margin-top: revert;
